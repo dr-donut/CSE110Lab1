@@ -1,5 +1,9 @@
 # Michael Hu's User Page
 
+[About](https://github.com/dr-donut/CSE110Lab1/blob/vs-add-read-me/index.md#about)
+[Programming](https://github.com/dr-donut/CSE110Lab1/blob/vs-add-read-me/index.md#programming)
+
+
 ## About
 **`Hello world!`** My name is Michael Hu and I am a third-year Math-CS student at UCSD.
 
