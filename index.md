@@ -17,8 +17,7 @@ While I've spent quite some time at UCSD already, some of the remaining items of
 
 In my free time I like to play the saxophone, read books, and take landscape photos. I also love listening to house music and finding new food spots around SD.
 
-![Tahoe, 2021](assets/images/_DSC5016 copy 2.jpg)
-
+![Tahoe, 2021](_DSC5016 copy 2.jpg)
 
 ## Programming
 I love the problem-solving aspect of programming, as well as being able to work together in a team and bounce ideas off each other.
