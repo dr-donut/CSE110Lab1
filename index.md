@@ -17,7 +17,7 @@ While I've spent quite some time at UCSD already, some of the remaining items of
 
 In my free time I like to play the saxophone, read books, and take landscape photos. I also love listening to house music and finding new food spots around SD.
 
-![Tahoe, 2021](/assets/images/_DSC5016 copy2.jpg)
+![Tahoe, 2021](./_DSC5016 copy 2.jpg)
 
 
 ## Programming
@@ -32,4 +32,4 @@ Some programming languages I am familiar with are:
 - Python
 
 
-**In case you want to read this page _again_, click [here](https://www.google.com)!**
+**In case you want to read this page _again_, click [here](https://github.com/dr-donut/CSE110Lab1/blob/vs-add-read-me/index.md)!**
